@@ -1,11 +1,16 @@
 // ==UserScript==
-// @name         Wayback Machine for Chrome Omnibox
-// @namespace    https://github.com/Archangel1C
-// @version      0.3
-// @description  Revert the URL encoding of colons by Chrome %s replacement to make it work with Wayback Machines search
-// @author       Archangel1C
-// @match        http*://web.archive.org/web/*
-// @grant        none
+// @name            Wayback Machine for Chrome Omnibox
+// @description     Revert the URL encoding of colons by Chrome %s replacement to make it work with Wayback Machines search
+// @author          Archangel1C
+// @license         GPL-3.0-only
+// @namespace       https://github.com/Archangel1C
+// @version         0.4
+// @match           http*://web.archive.org/web/*
+// @run-at          document-start
+// @grant           none
+// @compatible      chrome
+// @downloadURL     https://github.com/Archangel1C/greasemonkey-chrome-wayback/raw/master/Wayback%20Machine%20for%20Chrome%20Omnibox.user.js
+// @contributionURL https://flattr.com/@Archangel1C
 // ==/UserScript==
 //
 // Sources/Influences:
