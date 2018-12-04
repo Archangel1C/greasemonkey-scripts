@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Wayback Machine for Chrome Omnibox
 // @namespace    https://github.com/Archangel1C
-// @version      0.2
+// @version      0.3
 // @description  Revert the URL encoding of colons by Chrome %s replacement to make it work with Wayback Machines search
 // @author       Archangel1C
 // @match        http*://web.archive.org/web/*
