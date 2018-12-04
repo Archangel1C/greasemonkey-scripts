@@ -21,7 +21,7 @@
     'use strict';
 
     // avoid infinite recursion
-    if(window.location.href.search(/%3A/i) > -1) {
-        window.location = window.location.href.replace(/%3A/g, ":");
+    if(window.location.href.search(/%3A/gi) > -1) {
+        window.location = window.location.href.replace(/%3A/gi, ":");
     }
 })();
