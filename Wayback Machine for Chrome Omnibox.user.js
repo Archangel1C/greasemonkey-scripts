@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name            Wayback Machine for Chrome Omnibox
+// @name            Wayback Machine for Chrome Omnibox Colon Fix
 // @description     Revert the URL encoding of colons by Chrome %s replacement to make it work with Wayback Machines search
 // @author          Archangel1C
 // @license         GPL-3.0-only
