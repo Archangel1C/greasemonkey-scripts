@@ -13,9 +13,12 @@
 // @contributionURL https://flattr.com/@Archangel1C
 // ==/UserScript==
 //
+// Omnibox Search Engine URL: https://web.archive.org/web/*/%s
+//
 // Sources/Influences:
 // - https://superuser.com/a/302179 for the JavaScript part
 // - https://superuser.com/a/364060 for the GreaseMonkey part
+
 
 (function() {
 // debugger instruction lets Chrome stop here
