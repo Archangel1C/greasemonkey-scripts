@@ -4,7 +4,7 @@
 // @author          Archangel1C
 // @license         GPL-3.0-only
 // @namespace       https://github.com/Archangel1C
-// @version         0.4
+// @version         0.1
 // @match           *://*.youtube.com/results*
 // @run-at          document-start
 // @grant           none
