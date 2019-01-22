@@ -9,7 +9,7 @@
 // @run-at          document-start
 // @grant           none
 // @compatible      chrome
-// @downloadURL     https://github.com/Archangel1C/greasemonkey-chrome-wayback/raw/master/Wayback%20Machine%20for%20Chrome%20Omnibox.user.js
+// @downloadURL     https://github.com/Archangel1C/greasemonkey-scripts/raw/master/Wayback%20Machine%20for%20Chrome%20Omnibox.user.js
 // @contributionURL https://flattr.com/@Archangel1C
 // ==/UserScript==
 //
